@@ -112,8 +112,8 @@ section {
   font-family: "Goldman", cursive;
   font-family: "Press Start 2P", cursive;
   font-size: 2rem;
-
-  -webkit-animation: typing 10s infinite ease;
+  
+  
 }
 
 @keyframes typing {
@@ -182,15 +182,6 @@ section {
   border-radius: 30px;
   animation: bounce 2s linear infinite;
 
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  -o-transform: translateY(-50%);
-  -webkit-border-radius: 30px;
-  -moz-border-radius: 30px;
-  -ms-border-radius: 30px;
-  -o-border-radius: 30px;
-  -webkit-animation: bounce 2s linear infinite;
 }
 
 .bounce .icon-bounce::after {
