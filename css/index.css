@@ -116,7 +116,6 @@ section {
   
 }
 
-
 @keyframes typing {
   0% {
     content: "I'm|";
@@ -184,7 +183,6 @@ section {
   animation: bounce 2s linear infinite;
 
 }
-
 .bounce .icon-bounce::after {
   content: "";
   position: absolute;
